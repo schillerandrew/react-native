@@ -1,5 +1,5 @@
 {
-  "name": "react-native",
+  "name": "react-native-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
