@@ -2,12 +2,13 @@
 
 > ## Problem Domain
 
-### **React Native App - phase 1**
+### **React Native App - phase 2**
 
 Create a native phone/device application using React Native:
 
 - Camera app with random background color
 - Tap "Flip" to switch from camera view from "front" or "back" camera
+- Tap "Take Picture" to display picture below camera screen
 - Scan QR code to open app
 
 > ## UML
@@ -23,7 +24,8 @@ Create a native phone/device application using React Native:
 
 > ## Links
 
-- [GitHub pull request](https://github.com/schillerandrew/react-native/pull/1)
+- [Expo deployment](https://expo.dev/@schillerandrew/react-native-app?serviceType=classic&distribution=expo-go)
+- [GitHub pull request](https://github.com/schillerandrew/react-native/pull/2)
 
 > ## Architecture (front-end)
 
